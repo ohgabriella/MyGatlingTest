@@ -1,2 +1,5 @@
 .idea
+.bloop/
+.metals/
+.vscode/
 /target
