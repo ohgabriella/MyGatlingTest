@@ -55,7 +55,7 @@ No DOckerfile é possível especificar como será essa imagem e de qual arquivo 
 
 Não esquecer de colocar o ponto final. Para visualizar a imagem criada é só fazer a listagem:
 
-`docker image ls`
+`docker images`
 
 Rodando um container na imagem criada  
 
@@ -72,9 +72,8 @@ cd gatling-framework
 mvn gatling:test -Dgatling.simulationClass=simulations.ReqresSimulation
 ```
 
-
 ### Referencias
 
--[Load Testing with Gatling - The Complete Guide](https://www.james-willett.com/gatling-load-testing-complete-guide/)
+- [Load Testing with Gatling - The Complete Guide](https://www.james-willett.com/gatling-load-testing-complete-guide/)
 
--[Comandos mais utilizados no Docker](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
+- [Comandos mais utilizados no Docker](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
