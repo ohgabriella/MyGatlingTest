@@ -77,3 +77,5 @@ mvn gatling:test -Dgatling.simulationClass=simulations.MyFirstTest
 - [Load Testing with Gatling - The Complete Guide](https://www.james-willett.com/gatling-load-testing-complete-guide/)
 
 - [Comandos mais utilizados no Docker](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
+
+- [Um repo que tomei como base o arquivo do Dockerfile] (https://github.com/rwcosta/ScalaLearning)
