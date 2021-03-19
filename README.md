@@ -16,7 +16,7 @@ Na pasta onde quer guardar o projeto, abrir o terminal e digitar
 
 ### Rodando a simulação
 
- * no intelj 
+* no intelj 
 
   Basta dar um "run" na classe Engine.scala localizada dentro do src/test/scala
 
@@ -69,7 +69,7 @@ Para executar o teste entre no diretorio do projeto e execute normalmente o mvn 
 
 ```
 cd gatling-framework
-mvn gatling:test -Dgatling.simulationClass=simulations.ReqresSimulation
+mvn gatling:test -Dgatling.simulationClass=simulations.MyFirstTest
 ```
 
 ### Referencias
