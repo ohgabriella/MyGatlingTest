@@ -78,4 +78,4 @@ mvn gatling:test -Dgatling.simulationClass=simulations.MyFirstTest
 
 - [Comandos mais utilizados no Docker](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
 
-- [Um repo que tomei como base o arquivo do Dockerfile] (https://github.com/rwcosta/ScalaLearning)
+- [Um repo que tomei como base o arquivo do Dockerfile](https://github.com/rwcosta/ScalaLearning)
